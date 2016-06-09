@@ -3,7 +3,7 @@
 
 import UIKit
 
-var numero = 1...100
+var numero = 0...100
 
 for num in numero{
     
